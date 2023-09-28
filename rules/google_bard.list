@@ -1,4 +1,8 @@
 # https://bard.google.com/
 # created by ChatQi 
+DOMAIN-SUFFIX,google.com,Bard
 DOMAIN-SUFFIX,apis.google.com,Bard
 DOMAIN-SUFFIX,bard.google.com,Bard
+DOMAIN-SUFFIX,in.appcenter.ms,Bard
+DOMAIN-SUFFIX,ogs.google.com,Bard
+DOMAIN-SUFFIX,www.google.com,Bard
